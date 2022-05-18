@@ -3,9 +3,13 @@
 Overview and cheat sheet of git commands. Includes categories of commands.
 
 
+
 stuff added in newBranch
 
 Good stuff
+
+more stuff added 
+
 
 ### Basic Commands
 
