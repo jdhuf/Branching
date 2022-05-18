@@ -3,7 +3,10 @@
 Overview and cheat sheet of git commands. Includes categories of commands.
 
 
-more stuff added 
+more stuff added
+
+adding a lot more stuff
+
 
 ### Basic Commands
 
