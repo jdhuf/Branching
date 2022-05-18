@@ -15,4 +15,5 @@
 
 ### Branching Commands
 *'git branch' - list local branches
-*'git checkout branchName' - checkout lockal branch 'branchName'
+*'git branch branchName' - create local branch
+*'git checkout branchName' - checkout local branch 'branchName'
