@@ -8,7 +8,9 @@ stuff added in newBranch
 
 Good stuff
 
-more stuff added 
+more good stuff
+
+more stuff added
 
 
 ### Basic Commands
